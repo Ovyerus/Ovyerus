@@ -1,1 +1,1 @@
-<img src="/github-metrics.svg" alt="Metrics" />
+![Metrics](/github-metrics.svg)
